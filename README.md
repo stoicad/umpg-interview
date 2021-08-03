@@ -1,4 +1,4 @@
-# umpg-interview
+TEST# umpg-interview
 
 The 'scripts' folder it's not part of the interview and should be ignored.
 You can either use C# or typescript to solve the interview exercise.
